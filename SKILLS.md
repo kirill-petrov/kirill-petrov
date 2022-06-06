@@ -6,37 +6,61 @@
 
 ### Syntax
 
-<code>value</code>
+<code>🟦 value</code>
+<code>🟦 identifier</code>  
+<code>🟩 variable </code>  
+<code>🟩 constant</code>  
+<code>🟦 scalar</code>  
+<code>🟩 literal</code>  
+<code>🟩 expression</code>  
+<code>🟦 heap</code>  
+<code>🟩 type</code>  
+<code>🟩 primitive types</code>  
+<code>🟦 reference</code>  
+<code>🟦 flag</code>  
+<code>🟩 lexical scope</code>  
+<code>🟦 code block</code>  
+<code>🟩 Object</code>  
+<code>🟩 this</code>  
+<code>🟩 arrow function</code>  
+<code>🟨 generator</code>  
+<code>🟩 async function</code>  
+<code>🟩 call, bind, apply</code>
+<code>🟩 Array</code>  
+<code>🟨 instanceof</code>  
+<code>🟩 ...spread</code>  
+<code>🟩 ...rest</code>  
+<code>🟩 typeof</code>
 
 ## Fundamental concepts
 
-| Syntax               | Statements            | Functions             | Data structures      | Process & style       |
-| -------------------- | --------------------- | --------------------- | -------------------- | --------------------- |
-| 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array             | 🟦 refactoring        |
-| 🟦 identifier        | 🟦 loops              | 🟩 function           | 🟦 instance          | 🟦 code review        |
-| 🟩 variable          | 🟦 assignment         | 🟩 return             | 🟩 object            | 🟦 antipatterns       |
-| 🟩 constant          | 🟨 prototype          | 🟦 signature          | 🟦 collection        | 🟦 paradigm           |
-| 🟦 scalar            | 🟦 class              | 🟦 argument           | 🟩 hash table        | 🟦 algorithm          |
-| 🟩 literal           | 🟩 while              | 🟦 parameter          | 🟦 linked list       | 🟦 magic numbers      |
-| 🟩 expression        | 🟩 do..while          | 🟩 pure function      | 🟩 queue             | 🟦 hardcode           |
-| 🟦 heap              | 🟩 for                | 🟦 lambda             | 🟩 stack             | 🟦 complexity         |
-| 🟩 type              | 🟩 for..in            | 🟦 side effects       | 🟦 deque             | 🟦 decomposition      |
-| 🟩 primitive types   | 🟩 for..of            | 🟩 closure            | 🟦 serialization     | ⬜️ spaghetti         |
-| 🟦 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend     | ⬜️ silver bullet     |
-| 🟦 flag              | 🟩 throw              | ⬜️ curry             | 🟨 iterator          | ⬜️ not invented here |
-| 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟨 typed arrays      | 🟦 dead code          |
-| 🟦 code block        | 🟦 equality operators | 🟦 higher order       | 🟩 Map               | 🟦 unreachable code   |
-| 🟩 Object            | 🟦 logical operators  | 🟩 callback           | 🟩 Set               | 🟦 duplicate code     |
-| 🟩 this              | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception          |
-| 🟩 arrow function    | 🟩 break, continue    | ⬜️ pipe              | ⬜️ Proxy            | 🟦 return early       |
-| 🟨 generator         | 🟩 switch             | ⬜️ memoize           | ⬜️ Symbol           | 🟩 linter             |
-| 🟩 async function    | 🟩 new Error          | 🟦 factory            | 🟩 string parsing    | 🟩 prettier           |
-| 🟩 call, bind, apply |                       | 🟦 pool               | 🟩 timers            | 🟦 unittest           |
-| 🟩 Array             |                       | 🟦 wrapper            | 🟨 EventEmitter      | 🟩 git                |
-| 🟨 instanceof        |                       | 🟨 default parameters | 🟩 RegExp            | 🟩 github             |
-| 🟩 ...spread         |                       |                       | 🟩 global            | 🟩 node.js            |
-| 🟩 ...rest           |                       |                       | 🟩 undefined         | 🟩 npm                |
-| 🟩 typeof            |                       |                       | 🟩 null              |                       |
+| Syntax | Statements            | Functions             | Data structures      | Process & style       |
+| ------ | --------------------- | --------------------- | -------------------- | --------------------- |
+|        | 🟩 if                 | 🟩 recursion          | 🟩 array             | 🟦 refactoring        |
+|        | 🟦 loops              | 🟩 function           | 🟦 instance          | 🟦 code review        |
+|        | 🟦 assignment         | 🟩 return             | 🟩 object            | 🟦 antipatterns       |
+|        | 🟨 prototype          | 🟦 signature          | 🟦 collection        | 🟦 paradigm           |
+|        | 🟦 class              | 🟦 argument           | 🟩 hash table        | 🟦 algorithm          |
+|        | 🟩 while              | 🟦 parameter          | 🟦 linked list       | 🟦 magic numbers      |
+|        | 🟩 do..while          | 🟩 pure function      | 🟩 queue             | 🟦 hardcode           |
+|        | 🟩 for                | 🟦 lambda             | 🟩 stack             | 🟦 complexity         |
+|        | 🟩 for..in            | 🟦 side effects       | 🟦 deque             | 🟦 decomposition      |
+|        | 🟩 for..of            | 🟩 closure            | 🟦 serialization     | ⬜️ spaghetti         |
+|        | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend     | ⬜️ silver bullet     |
+|        | 🟩 throw              | ⬜️ curry             | 🟨 iterator          | ⬜️ not invented here |
+|        | 🟩 try..catch         | 🟩 chaining           | 🟨 typed arrays      | 🟦 dead code          |
+|        | 🟦 equality operators | 🟦 higher order       | 🟩 Map               | 🟦 unreachable code   |
+|        | 🟦 logical operators  | 🟩 callback           | 🟩 Set               | 🟦 duplicate code     |
+|        | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception          |
+|        | 🟩 break, continue    | ⬜️ pipe              | ⬜️ Proxy            | 🟦 return early       |
+|        | 🟩 switch             | ⬜️ memoize           | ⬜️ Symbol           | 🟩 linter             |
+|        | 🟩 new Error          | 🟦 factory            | 🟩 string parsing    | 🟩 prettier           |
+|        |                       | 🟦 pool               | 🟩 timers            | 🟦 unittest           |
+|        |                       | 🟦 wrapper            | 🟨 EventEmitter      | 🟩 git                |
+|        |                       | 🟨 default parameters | 🟩 RegExp            | 🟩 github             |
+|        |                       |                       | 🟩 global            | 🟩 node.js            |
+|        |                       |                       | 🟩 undefined         | 🟩 npm                |
+|        |                       |                       | 🟩 null              |                       |
 
 ## Multi-paradigm programming
 

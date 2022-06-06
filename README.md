@@ -1,4 +1,4 @@
-<!-- <code>[🛣 Software engineering skills](SKILLS.md)</code><br /> -->
+<code>[🛣 Software engineering skills](SKILLS.md)</code><br />
 <code>🧑‍💻 Languages:</code>
 <code>HTML</code>
 <code>CSS (SASS)</code>

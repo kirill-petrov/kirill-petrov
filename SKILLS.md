@@ -6,133 +6,133 @@
 
 ### Syntax
 
-<code>🟦 value</code>
-<code>🟦 identifier</code>
-<code>🟩 variable</code>
-<code>🟩 constant</code>
-<code>🟦 scalar</code>
-<code>🟩 literal</code>
-<code>🟩 expression</code>
-<code>🟦 heap</code>
-<code>🟩 type</code>
-<code>🟩 primitive types</code>
-<code>🟦 reference</code>
-<code>🟦 flag</code>
-<code>🟩 lexical scope</code>
-<code>🟦 code block</code>
-<code>🟩 Object</code>
-<code>🟩 this</code>
-<code>🟩 arrow function</code>
-<code>🟨 generator</code>
-<code>🟩 async function</code>
-<code>🟩 call, bind, apply</code>
-<code>🟩 Array</code>
-<code>🟨 instanceof</code>
-<code>🟩 ...spread</code>
-<code>🟩 ...rest</code>
-<code>🟩 typeof</code>
+<code>🟦&nbsp;value</code>
+<code>🟦&nbsp;identifier</code>
+<code>🟩&nbsp;variable</code>
+<code>🟩&nbsp;constant</code>
+<code>🟦&nbsp;scalar</code>
+<code>🟩&nbsp;literal</code>
+<code>🟩&nbsp;expression</code>
+<code>🟦&nbsp;heap</code>
+<code>🟩&nbsp;type</code>
+<code>🟩&nbsp;primitive types</code>
+<code>🟦&nbsp;reference</code>
+<code>🟦&nbsp;flag</code>
+<code>🟩&nbsp;lexical scope</code>
+<code>🟦&nbsp;code block</code>
+<code>🟩&nbsp;Object</code>
+<code>🟩&nbsp;this</code>
+<code>🟩&nbsp;arrow function</code>
+<code>🟨&nbsp;generator</code>
+<code>🟩&nbsp;async function</code>
+<code>🟩&nbsp;call, bind, apply</code>
+<code>🟩&nbsp;Array</code>
+<code>🟨&nbsp;instanceof</code>
+<code>🟩&nbsp;...spread</code>
+<code>🟩&nbsp;...rest</code>
+<code>🟩&nbsp;typeof</code>
 
 ### Statements
 
-<code>🟩 if</code>
-<code>🟦 loops</code>
-<code>🟦 assignment</code>
-<code>🟨 prototype</code>
-<code>🟦 class</code>
-<code>🟩 while</code>
-<code>🟩 do..while</code>
-<code>🟩 for</code>
-<code>🟩 for..in</code>
-<code>🟩 for..of</code>
-<code>🟨 for await</code>
-<code>🟩 throw</code>
-<code>🟩 try..catch</code>
-<code>🟦 equality operators</code>
-<code>🟦 logical operators</code>
-<code>🟦 bitwise operators</code>
-<code>🟩 break, continue</code>
-<code>🟩 switch</code>
-<code>🟩 new Error</code>
+<code>🟩&nbsp;if</code>
+<code>🟦&nbsp;loops</code>
+<code>🟦&nbsp;assignment</code>
+<code>🟨&nbsp;prototype</code>
+<code>🟦&nbsp;class</code>
+<code>🟩&nbsp;while</code>
+<code>🟩&nbsp;do..while</code>
+<code>🟩&nbsp;for</code>
+<code>🟩&nbsp;for..in</code>
+<code>🟩&nbsp;for..of</code>
+<code>🟨&nbsp;for await</code>
+<code>🟩&nbsp;throw</code>
+<code>🟩&nbsp;try..catch</code>
+<code>🟦&nbsp;equality operators</code>
+<code>🟦&nbsp;logical operators</code>
+<code>🟦&nbsp;bitwise operators</code>
+<code>🟩&nbsp;break, continue</code>
+<code>🟩&nbsp;switch</code>
+<code>🟩&nbsp;new Error</code>
 
 ### Functions
 
-<code>🟩 recursion</code>
-<code>🟩 function</code>
-<code>🟩 return</code>
-<code>🟦 signature</code>
-<code>🟦 argument</code>
-<code>🟦 parameter</code>
-<code>🟩 pure function</code>
-<code>🟦 lambda</code>
-<code>🟦 side effects</code>
-<code>🟩 closure</code>
-<code>🟦 partial</code>
-<code>⬜️ curry</code>
-<code>🟩 chaining</code>
-<code>🟦 higher order</code>
-<code>🟩 callback</code>
-<code>🟦 listener</code>
-<code>⬜️ pipe</code>
-<code>⬜️ memoize</code>
-<code>🟦 factory</code>
-<code>🟦 pool</code>
-<code>🟦 wrapper</code>
-<code>🟨 default parameters</code>
+<code>🟩&nbsp;recursion</code>
+<code>🟩&nbsp;function</code>
+<code>🟩&nbsp;return</code>
+<code>🟦&nbsp;signature</code>
+<code>🟦&nbsp;argument</code>
+<code>🟦&nbsp;parameter</code>
+<code>🟩&nbsp;pure function</code>
+<code>🟦&nbsp;lambda</code>
+<code>🟦&nbsp;side effects</code>
+<code>🟩&nbsp;closure</code>
+<code>🟦&nbsp;partial</code>
+<code>⬜️&nbsp;curry</code>
+<code>🟩&nbsp;chaining</code>
+<code>🟦&nbsp;higher order</code>
+<code>🟩&nbsp;callback</code>
+<code>🟦&nbsp;listener</code>
+<code>⬜️&nbsp;pipe</code>
+<code>⬜️&nbsp;memoize</code>
+<code>🟦&nbsp;factory</code>
+<code>🟦&nbsp;pool</code>
+<code>🟦&nbsp;wrapper</code>
+<code>🟨&nbsp;default parameters</code>
 
 ### Data structures
 
-<code>🟩 array</code>
-<code>🟦 instance</code>
-<code>🟩 object</code>
-<code>🟦 collection</code>
-<code>🟩 hash table</code>
-<code>🟦 linked list</code>
-<code>🟩 queue</code>
-<code>🟩 stack</code>
-<code>🟦 deque</code>
-<code>🟦 serialization</code>
-<code>🟦 mixin, extend</code>
-<code>🟨 iterator</code>
-<code>🟨 typed arrays</code>
-<code>🟩 Map</code>
-<code>🟩 Set</code>
-<code>⬜️ weak collections</code>
-<code>⬜️ Proxy</code>
-<code>⬜️ Symbol</code>
-<code>🟩 string parsing</code>
-<code>🟩 timers</code>
-<code>🟨 EventEmitter</code>
-<code>🟩 RegExp</code>
-<code>🟩 global</code>
-<code>🟩 undefined</code>
-<code>🟩 null</code>
+<code>🟩&nbsp;array</code>
+<code>🟦&nbsp;instance</code>
+<code>🟩&nbsp;object</code>
+<code>🟦&nbsp;collection</code>
+<code>🟩&nbsp;hash table</code>
+<code>🟦&nbsp;linked list</code>
+<code>🟩&nbsp;queue</code>
+<code>🟩&nbsp;stack</code>
+<code>🟦&nbsp;deque</code>
+<code>🟦&nbsp;serialization</code>
+<code>🟦&nbsp;mixin, extend</code>
+<code>🟨&nbsp;iterator</code>
+<code>🟨&nbsp;typed arrays</code>
+<code>🟩&nbsp;Map</code>
+<code>🟩&nbsp;Set</code>
+<code>⬜️&nbsp;weak collections</code>
+<code>⬜️&nbsp;Proxy</code>
+<code>⬜️&nbsp;Symbol</code>
+<code>🟩&nbsp;string parsing</code>
+<code>🟩&nbsp;timers</code>
+<code>🟨&nbsp;EventEmitter</code>
+<code>🟩&nbsp;RegExp</code>
+<code>🟩&nbsp;global</code>
+<code>🟩&nbsp;undefined</code>
+<code>🟩&nbsp;null</code>
 
 ### Process & style
 
-<code>🟦 refactoring</code>
-<code>🟦 code review</code>
-<code>🟦 antipatterns</code>
-<code>🟦 paradigm</code>
-<code>🟦 algorithm</code>
-<code>🟦 magic numbers</code>
-<code>🟦 hardcode</code>
-<code>🟦 complexity</code>
-<code>🟦 decomposition</code>
-<code>⬜️ spaghetti</code>
-<code>⬜️ silver bullet</code>
-<code>⬜️ not invented her</code>
-<code>🟦 dead code</code>
-<code>🟦 unreachable code</code>
-<code>🟦 duplicate code</code>
-<code>🟦 exception</code>
-<code>🟦 return early</code>
-<code>🟩 linter</code>
-<code>🟩 prettier</code>
-<code>🟦 unittest</code>
-<code>🟩 git</code>
-<code>🟩 github</code>
-<code>🟩 node.js</code>
-<code>🟩 npm</code>
+<code>🟦&nbsp;refactoring</code>
+<code>🟦&nbsp;code review</code>
+<code>🟦&nbsp;antipatterns</code>
+<code>🟦&nbsp;paradigm</code>
+<code>🟦&nbsp;algorithm</code>
+<code>🟦&nbsp;magic numbers</code>
+<code>🟦&nbsp;hardcode</code>
+<code>🟦&nbsp;complexity</code>
+<code>🟦&nbsp;decomposition</code>
+<code>⬜️&nbsp;spaghetti</code>
+<code>⬜️&nbsp;silver bullet</code>
+<code>⬜️&nbsp;not invented her</code>
+<code>🟦&nbsp;dead code</code>
+<code>🟦&nbsp;unreachable code</code>
+<code>🟦&nbsp;duplicate code</code>
+<code>🟦&nbsp;exception</code>
+<code>🟦&nbsp;return early</code>
+<code>🟩&nbsp;linter</code>
+<code>🟩&nbsp;prettier</code>
+<code>🟦&nbsp;unittest</code>
+<code>🟩&nbsp;git</code>
+<code>🟩&nbsp;github</code>
+<code>🟩&nbsp;node.js</code>
+<code>🟩&nbsp;npm</code>
 
 ## Multi-paradigm programming
 

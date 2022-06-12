@@ -7,16 +7,16 @@
 ### Syntax
 
 <code>🟦&nbsp;value</code>
-<code>🟦&nbsp;identifier</code>
+<code>🟩&nbsp;identifier</code>
 <code>🟩&nbsp;variable</code>
 <code>🟩&nbsp;constant</code>
-<code>🟦&nbsp;scalar</code>
+<code>🟩&nbsp;scalar</code>
 <code>🟩&nbsp;literal</code>
 <code>🟩&nbsp;expression</code>
-<code>🟦&nbsp;heap</code>
+<code>🟩&nbsp;heap</code>
 <code>🟩&nbsp;type</code>
 <code>🟩&nbsp;primitive types</code>
-<code>🟦&nbsp;reference</code>
+<code>🟩&nbsp;reference</code>
 <code>🟦&nbsp;flag</code>
 <code>🟩&nbsp;lexical scope</code>
 <code>🟦&nbsp;code block</code>
@@ -27,7 +27,7 @@
 <code>🟩&nbsp;async function</code>
 <code>🟩&nbsp;call, bind, apply</code>
 <code>🟩&nbsp;Array</code>
-<code>🟨&nbsp;instanceof</code>
+<code>🟩&nbsp;instanceof</code>
 <code>🟩&nbsp;...spread</code>
 <code>🟩&nbsp;...rest</code>
 <code>🟩&nbsp;typeof</code>
@@ -35,10 +35,10 @@
 ### Statements
 
 <code>🟩&nbsp;if</code>
-<code>🟦&nbsp;loops</code>
+<code>🟩&nbsp;loops</code>
 <code>🟦&nbsp;assignment</code>
-<code>🟨&nbsp;prototype</code>
-<code>🟦&nbsp;class</code>
+<code>🟩&nbsp;prototype</code>
+<code>🟩&nbsp;class</code>
 <code>🟩&nbsp;while</code>
 <code>🟩&nbsp;do..while</code>
 <code>🟩&nbsp;for</code>
@@ -48,7 +48,7 @@
 <code>🟩&nbsp;throw</code>
 <code>🟩&nbsp;try..catch</code>
 <code>🟦&nbsp;equality operators</code>
-<code>🟦&nbsp;logical operators</code>
+<code>🟩&nbsp;logical operators</code>
 <code>🟦&nbsp;bitwise operators</code>
 <code>🟩&nbsp;break, continue</code>
 <code>🟩&nbsp;switch</code>

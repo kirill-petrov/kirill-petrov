@@ -161,6 +161,8 @@ console.log('Begin');
 timer = setInterval(event, INTERVAL);
 ```
 
+<details><summary>output</summary>
+  
 ```zsh
 Begin
 { counter: 0, date: 2022-06-12T06:43:32.798Z }
@@ -175,6 +177,7 @@ Begin
 { counter: 9, date: 2022-06-12T06:43:37.308Z }
 The end
 ```
+</details>
 
 [`↑ scroll up`](#TOC)
 
@@ -198,6 +201,8 @@ for (let i = 0, j = 9; i < MAX_VALUE; i++, j--) {
 console.log('The end');
 ```
 
+<details><summary>output</summary>
+
 ```zsh
 Begin
 { i: 0, j: 9, date: 2022-06-12T07:05:42.170Z }
@@ -212,5 +217,9 @@ Begin
 { i: 9, j: 0, date: 2022-06-12T07:05:42.172Z }
 The end
 ```
+
+</details>
+
+
 
 [`↑ scroll up`](#TOC)

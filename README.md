@@ -10,5 +10,5 @@
 <code>PostgreSQL</code>
 <code>Firebase</code>
 <br />
-<code>[👀 view CV](https://kirill-petrov.github.io/cv/)</code>
-<code>💬 telegram: [@kirill_petrov](https://t.me/kirill_petrov)</code>
+<code>[🔗 view CV](https://kirill-petrov.github.io/cv/)</code>
+<code>🤙 telegram: [@kirill_petrov](https://t.me/kirill_petrov)</code>

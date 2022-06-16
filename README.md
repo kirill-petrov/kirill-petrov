@@ -1,5 +1,5 @@
 <!-- <code>[🛣 Software engineering skills](SKILLS.md)</code><br /> -->
-<code>🧑‍💻 Languages:</code>
+<code>💻 Languages:</code>
 <code>JavaScript</code>
 <code>SASS</code>
 <code>HTML</code><br />

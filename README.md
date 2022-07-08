@@ -1,7 +1,7 @@
 <!-- <code>[🛣 Software engineering skills](SKILLS.md)</code><br /> -->
 <code>💻 Languages:</code>
 <code>JavaScript</code>
-<code>SASS</code>
+<code>SCSS</code>
 <code>HTML</code><br />
 <code>📦 Tech stack:</code>
 <code>React</code>

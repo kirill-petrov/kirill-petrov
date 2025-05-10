@@ -1,1 +1,1 @@
-<code>JavaScript</code> • <code>Vue</code> • <code>CSS</code>
+<code>JS</code> • <code>Vue</code> • <code>CSS</code>
